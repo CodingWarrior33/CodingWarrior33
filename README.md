@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, 
+
+**💻 Explore the code archive of all the projects in which I have participated 💻**
+
+*For real world contributions/projects head onto my primary profile [@Kappuccino111](https://www.github.com/Kappuccino111)*
 
 <!--
 **CodingWarrior33/CodingWarrior33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
